@@ -2,7 +2,9 @@
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
+  “homepage”: “http://Banila48.github.io/FeelGood-Tracker"
   "dependencies": {
+    "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -12,6 +14,7 @@
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.1",
+    "save-dev": "0.0.1-security",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -19,7 +22,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server --watch db.json --port 5000"
+    "server": "json-server --watch db.json --port 5000",
+    “predeploy”: “npm run build”,
+    “deploy”: “gh-pages -d build”
   },
   "eslintConfig": {
     "extends": [
