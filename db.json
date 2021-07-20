@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "cosmos",
+      "day": "20 July",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "ESD meeting",
+      "day": "20th July @ 9pm",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}

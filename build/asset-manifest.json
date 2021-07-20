@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FeelGood-Tracker/static/css/main.901ba4b4.chunk.css",
+    "main.js": "/FeelGood-Tracker/static/js/main.aeb9b51d.chunk.js",
+    "main.js.map": "/FeelGood-Tracker/static/js/main.aeb9b51d.chunk.js.map",
+    "runtime-main.js": "/FeelGood-Tracker/static/js/runtime-main.446510cf.js",
+    "runtime-main.js.map": "/FeelGood-Tracker/static/js/runtime-main.446510cf.js.map",
+    "static/js/2.22cff6c6.chunk.js": "/FeelGood-Tracker/static/js/2.22cff6c6.chunk.js",
+    "static/js/2.22cff6c6.chunk.js.map": "/FeelGood-Tracker/static/js/2.22cff6c6.chunk.js.map",
+    "static/js/3.1716f6b3.chunk.js": "/FeelGood-Tracker/static/js/3.1716f6b3.chunk.js",
+    "static/js/3.1716f6b3.chunk.js.map": "/FeelGood-Tracker/static/js/3.1716f6b3.chunk.js.map",
+    "index.html": "/FeelGood-Tracker/index.html",
+    "static/css/main.901ba4b4.chunk.css.map": "/FeelGood-Tracker/static/css/main.901ba4b4.chunk.css.map",
+    "static/js/2.22cff6c6.chunk.js.LICENSE.txt": "/FeelGood-Tracker/static/js/2.22cff6c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446510cf.js",
+    "static/js/2.22cff6c6.chunk.js",
+    "static/css/main.901ba4b4.chunk.css",
+    "static/js/main.aeb9b51d.chunk.js"
+  ]
+}
