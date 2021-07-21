@@ -1,5 +1,7 @@
-## Usage
+## Note
+The app doesn't seem to deploy correctly on github pages, most likely due to the json server error
 
+## Usage
 ### Install dependencies
 
 ```
